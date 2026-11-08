@@ -10,8 +10,8 @@ payload = {
     "location": "Marriottsville, MD",     # e.g. "New York, NY"
     "linkedin": "https://www.linkedin.com/in/stevencrickman/",
     "codeLink": "https://github.com/scrickman/HowGood_Application/blob/main/howgood.py",     # URL to the repo/gist containing THIS script
-    "yearsPython": 4.75,
-    "yearsDjango": 4.25,
+    "yearsPython": 4,
+    "yearsDjango": 4,
 }
 
 body = json.dumps(payload)
