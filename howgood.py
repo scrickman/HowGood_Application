@@ -6,10 +6,10 @@ endpoint = "https://howgood-apply-api.howgood.workers.dev/apply"
 payload = {
     "name": "Steven Crickman",
     "email": "spcrickman@gmail.com",
-    "resume": "",       # URL to your resume
+    "resume": "https://github.com/scrickman/HowGood_Application/blob/main/Resume.pdf",       # URL to your resume
     "location": "Marriottsville, MD",     # e.g. "New York, NY"
     "linkedin": "https://www.linkedin.com/in/stevencrickman/",
-    "codeLink": "",     # URL to the repo/gist containing THIS script
+    "codeLink": "https://github.com/scrickman/HowGood_Application/blob/main/howgood.py",     # URL to the repo/gist containing THIS script
     "yearsPython": 4.75,
     "yearsDjango": 4.25,
 }
